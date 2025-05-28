@@ -1,0 +1,1 @@
+Replication code for the paper Krisztin, T. , van Dijk, M. , & Piribauer, P. (2025). Herding resilience: Surveys and Bayesian spatial models for Africa’s livestock. Environmental Development 54 e101141. [10.1016/j.envdev.2025.101141](https://doi.org/10.1016/j.envdev.2025.101141). 
